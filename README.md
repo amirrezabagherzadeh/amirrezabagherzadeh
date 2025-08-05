@@ -43,7 +43,6 @@
     <td>
       <a href="https://github.com/amirrezabagherzadeh">
         <img
-          width="400"
           src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en"
           alt="GitHub stats" />
       </a>
@@ -51,13 +50,10 @@
     <td>
       <a href="https://github.com/amirrezabagherzadeh">
         <img
-          width="400"
-          src="https://github-readme-streak-stats-eight.vercel.app/?user=amirrezabagherzadeh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000"
+          src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&"
           alt="GitHub streak" />
       </a>
     </td>
-  </tr>
-</table>
 
 <p align="center">
     <img
