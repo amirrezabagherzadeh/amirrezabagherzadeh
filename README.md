@@ -25,7 +25,8 @@
 <a href="https://instagram.com/amirreza.bgz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirreza.bgz" height="30" width="40" /></a>
 <a href="https://t.me/amirreza2090" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="amirreza.bgz" height="30" width="40" /></a>
 </p>
---------
+-----
+
 <h3 align="left">Languages and Tools:</h3>
 
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org) [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) [![C#](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/) [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
