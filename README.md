@@ -27,6 +27,28 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="50" height="50"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="50" height="50"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="50" height="50"/>
+  </a>
+</p>
+
+----
 <p align="left" style="line-height:0">
   <a href="https://wordpress.org" target="_blank" rel="noopener noreferrer"
      style="text-decoration:none">
@@ -53,7 +75,7 @@
     <img src="https://skillicons.dev/icons?i=py"       alt="Python"   width="50" height="50"/>
   </a>
 </p>
-
+---
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&show_icons=true&locale=en&layout=compact" alt="amirrezabagherzadeh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en" alt="amirrezabagherzadeh" /></p>
