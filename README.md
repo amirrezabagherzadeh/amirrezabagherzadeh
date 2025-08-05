@@ -59,12 +59,10 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&theme=tokyonight&bg_color=00000000)](https://github.com/amirrezabagherzadeh)
 [![GitHub streak](https://github-readme-streak-stats-eight.vercel.app/?user=amirrezabagherzadeh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000)](https://github.com/amirrezabagherzadeh)
 
-<table align="center">
-  <tr>
-    <td align="center">
-
-      [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000)](https://github.com/amirrezabagherzadeh)
-
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://github.com/amirrezabagherzadeh">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000"
+      alt="Top Languages" />
+  </a>
+</div>
