@@ -42,7 +42,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&" alt="amirrezabagherzadeh" /></p>
 
-<img align="left"
+<img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&layout=compact&cache_seconds=60"
      alt="Top Languages" />
 
