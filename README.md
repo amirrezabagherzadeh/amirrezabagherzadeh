@@ -30,7 +30,7 @@
 <a href="https://t.me/amirreza2090" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="amirreza.bgz" height="30" width="40" /></a>
 </p>
 
-------
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 
