@@ -34,33 +34,56 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-<p align="center">
-  <span>
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress"><br>
-    <sub>WordPress</sub>
-  </span>
-  <span>
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5"><br>
-    <sub>HTML5</sub>
-  </span>
-  <span>
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3"><br>
-    <sub>CSS3</sub>
-  </span>
-  <span>
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#"><br>
-    <sub>C#</sub>
-  </span>
-  <span>
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity"><br>
-    <sub>Unity</sub>
-  </span>
-  <span>
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python"><br>
-    <sub>Python</sub>
-  </span>
-</p>
+<!-- Tech Stack – Responsive -->
+<style>
+  .tech-stack{
+    display:flex;
+    flex-wrap:wrap;          /* اجازهٔ شکست سطرها */
+    justify-content:center;  /* وسط‌چین در محور افقی */
+    gap:22px;                /* فاصلهٔ یکنواخت بین آیتم‌ها */
+    padding:0;
+    margin:0;
+    list-style:none;         /* نقطهٔ بولِت حذف شود اگر ul بود */
+  }
+  .tech-item{
+    display:flex;
+    flex-direction:column;   /* آیکن بالا، متن زیرش */
+    align-items:center;
+    font-size:0.9rem;
+    min-width:72px;          /* عرض پایه برای لپ‌تاپ/موبایل */
+  }
+  .tech-item img{
+    width:48px;              /* اندازهٔ ثابت آیکن‌ها */
+    height:48px;
+  }
+</style>
 
+<div class="tech-stack">
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress">
+    WordPress
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
+    HTML5
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3">
+    CSS3
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#">
+    C#
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity">
+    Unity
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+    Python
+  </div>
+</div>
 
 
 -----
