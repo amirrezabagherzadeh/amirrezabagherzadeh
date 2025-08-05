@@ -1,3 +1,5 @@
+![logo](https://github.com/amirrezabagherzadeh/amirrezabagherzadeh/blob/main/1.jpg)
+
 <h1 align="center">Hi 👋, I'm Amirreza🧠</h1>
 <h3 align="center">A passionate game designer and AI enthusiast from Iran</h3>
 
