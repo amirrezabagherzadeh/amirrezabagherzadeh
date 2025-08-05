@@ -34,7 +34,12 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-[![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org) [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) [![C#](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/) [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+[![WordPress](https://skillicons.dev/icons?i=wordpress "WordPress")](https://wordpress.org)
+[![HTML5   ](https://skillicons.dev/icons?i=html      "HTML5")](https://www.w3schools.com/html/)
+[![CSS3    ](https://skillicons.dev/icons?i=css       "CSS3")](https://www.w3schools.com/css/)
+[![C#      ](https://skillicons.dev/icons?i=cs        "C#")](https://www.w3schools.com/cs/)
+[![Unity   ](https://skillicons.dev/icons?i=unity     "Unity")](https://unity.com/)
+[![Python  ](https://skillicons.dev/icons?i=py        "Python")](https://www.python.org)
 
 
 -----
