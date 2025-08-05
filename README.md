@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://amirrezabz.com/CV](https://amirrezabz.com/CV)
 ------
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/amirrezabagherzadeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amirrezabagherzadeh" height="30" width="40" /></a>
 <a href="https://instagram.com/amirreza.bgz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amirreza.bgz" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 
 ------
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org) [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) [![C#](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/) [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
 
