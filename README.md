@@ -39,9 +39,6 @@
 
 -----
 <h3 align="left"> 📊 GitHub Stats::</h3> 
-
-![](https://github-readme-stats.vercel.app/api?username=AmirrezaBagherzadeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AmirrezaBagherzadeh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaBagherzadeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
     
 
