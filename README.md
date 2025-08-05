@@ -38,22 +38,22 @@
 <style>
   .tech-stack{
     display:flex;
-    flex-wrap:wrap;          /* اجازهٔ شکست سطرها */
-    justify-content:center;  /* وسط‌چین در محور افقی */
-    gap:22px;                /* فاصلهٔ یکنواخت بین آیتم‌ها */
+    flex-wrap:wrap;      
+    justify-content:center;
+    gap:22px;               
     padding:0;
     margin:0;
-    list-style:none;         /* نقطهٔ بولِت حذف شود اگر ul بود */
+    list-style:none;       
   }
   .tech-item{
     display:flex;
-    flex-direction:column;   /* آیکن بالا، متن زیرش */
+    flex-direction:column; 
     align-items:center;
     font-size:0.9rem;
-    min-width:72px;          /* عرض پایه برای لپ‌تاپ/موبایل */
+    min-width:72px;         
   }
   .tech-item img{
-    width:48px;              /* اندازهٔ ثابت آیکن‌ها */
+    width:48px;
     height:48px;
   }
 </style>
