@@ -34,46 +34,72 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-<!-- Tech Stack – Mobile-Friendly Grid -->
-<table align="center">
-  <!-- ردیفِ آیکن‌ها -->
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"><br>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html"      alt="HTML5"    width="48" height="48"><br>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css"       alt="CSS3"     width="48" height="48"><br>
-    </td>
-  </tr>
-  <!-- ردیفِ نام‌ها -->
-  <tr>
-    <td align="center"><sub>WordPress</sub></td>
-    <td align="center"><sub>HTML5</sub></td>
-    <td align="center"><sub>CSS3</sub></td>
-  </tr>
+<!-- Responsive Tech Stack -->
+<style>
+  /* ظرف اصلیِ آیکن‌ها */
+  .tech-stack{
+    display:flex;
+    flex-wrap:wrap;            /* موبایل: دو ردیفِ سه‌تایی */
+    justify-content:center;    /* موبایل: وسط‌چین */
+    gap:20px;                  /* فاصله یکنواخت */
+    margin:0;
+    padding:0;
+  }
 
-  <!-- ردیفِ آیکن‌های بعدی -->
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs"   alt="C#"     width="48" height="48"><br>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=unity" alt="Unity"  width="48" height="48"><br>
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=py"    alt="Python" width="48" height="48"><br>
-    </td>
-  </tr>
-  <!-- ردیفِ نام‌ها -->
-  <tr>
-    <td align="center"><sub>C#</sub></td>
-    <td align="center"><sub>Unity</sub></td>
-    <td align="center"><sub>Python</sub></td>
-  </tr>
-</table>
+  /* هر آیتم (آیکن + نام) */
+  .tech-item{
+    display:flex;
+    flex-direction:column;     /* آیکن بالا، متن زیرش */
+    align-items:center;
+    font-size:0.9rem;
+  }
+
+  /* آیکن‌ها—اندازه واحد */
+  .tech-item img{
+    width:48px;
+    height:48px;
+  }
+
+  /* فاصلهٔ کم زیر آیکن */
+  .tech-item span{
+    margin-top:4px;            /* همان «مارجین از بالا» */
+  }
+
+  /* دسکتاپ: تک‌ردیف، چپ‌چین */
+  @media (min-width:768px){
+    .tech-stack{
+      flex-wrap:nowrap;        /* اجازهٔ سطر تازه نده */
+      justify-content:flex-start; /* چپ‌چین */
+    }
+  }
+</style>
+
+<div class="tech-stack">
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress">
+    <span>WordPress</span>
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
+    <span>HTML5</span>
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3">
+    <span>CSS3</span>
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#">
+    <span>C#</span>
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity">
+    <span>Unity</span>
+  </div>
+  <div class="tech-item">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
+    <span>Python</span>
+  </div>
+</div>
 
 
 -----
