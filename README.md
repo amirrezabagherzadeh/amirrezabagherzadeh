@@ -42,6 +42,38 @@
      src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&layout=compact&cache_seconds=60"
      alt="Top Languages" />
 
+<!-- GitHub Stats & Streak – centred -->
+<div align="center">
+
+  <!-- 📊 Stats -->
+  <a href="https://github.com/amirrezabagherzadeh">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh
+           &show_icons=true
+           &include_all_commits=true
+           &count_private=true
+           &rank_icon=percentile
+           &hide_border=true
+           &theme=tokyonight
+           &bg_color=00000000"
+      alt="Amirreza – GitHub stats"
+      height="180" />
+  </a>
+
+  <!-- 🔥 Streak -->
+  <a href="https://github.com/amirrezabagherzadeh">
+    <img
+      src="https://github-readme-streak-stats.herokuapp.com?user=amirrezabagherzadeh
+           &theme=tokyonight
+           &hide_border=true
+           &date_format=M%20j%5B%2C%20Y%5D
+           &bg_color=00000000"
+      alt="Amirreza – GitHub streak"
+      height="180" />
+  </a>
+
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en" alt="amirrezabagherzadeh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&" alt="amirrezabagherzadeh" /></p>
