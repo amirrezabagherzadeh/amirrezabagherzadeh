@@ -34,12 +34,33 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-[![WordPress](https://skillicons.dev/icons?i=wordpress "WordPress")](https://wordpress.org "WordPress")
-[![HTML5](https://skillicons.dev/icons?i=html "HTML5")](https://www.w3schools.com/html/ "HTML5")
-[![CSS3](https://skillicons.dev/icons?i=css "CSS3")](https://www.w3schools.com/css/ "CSS3")
-[![C#](https://skillicons.dev/icons?i=cs "C#")](https://www.w3schools.com/cs/ "C#")
-[![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://unity.com/ "Unity")
-[![Python](https://skillicons.dev/icons?i=py "Python")](https://www.python.org "Python")
+<p align="center">
+  <a href="https://wordpress.org" title="WordPress">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"><br>
+    WordPress
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/html/" title="HTML5">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5"><br>
+    HTML5
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" title="CSS3">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3"><br>
+    CSS3
+  </a>&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/cs/" title="C#">
+    <img src="https://skillicons.dev/icons?i=cs" alt="C#"><br>
+    C#
+  </a>&nbsp;&nbsp;
+  <a href="https://unity.com/" title="Unity">
+    <img src="https://skillicons.dev/icons?i=unity" alt="Unity"><br>
+    Unity
+  </a>&nbsp;&nbsp;
+  <a href="https://www.python.org" title="Python">
+    <img src="https://skillicons.dev/icons?i=py" alt="Python"><br>
+    Python
+  </a>
+</p>
+
 
 
 -----
