@@ -34,56 +34,12 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-<!-- Tech Stack – Responsive -->
-<style>
-  .tech-stack{
-    display:flex;
-    flex-wrap:wrap;      
-    justify-content:center;
-    gap:22px;               
-    padding:0;
-    margin:0;
-    list-style:none;       
-  }
-  .tech-item{
-    display:flex;
-    flex-direction:column; 
-    align-items:center;
-    font-size:0.9rem;
-    min-width:72px;         
-  }
-  .tech-item img{
-    width:48px;
-    height:48px;
-  }
-</style>
-
-<div class="tech-stack">
-  <div class="tech-item">
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" title="WordPress">
-    WordPress
-  </div>
-  <div class="tech-item">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5">
-    HTML5
-  </div>
-  <div class="tech-item">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3">
-    CSS3
-  </div>
-  <div class="tech-item">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#" title="C#">
-    C#
-  </div>
-  <div class="tech-item">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity" title="Unity">
-    Unity
-  </div>
-  <div class="tech-item">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python" title="Python">
-    Python
-  </div>
-</div>
+[![WordPress](https://skillicons.dev/icons?i=wordpress "WordPress")](https://wordpress.org "WordPress")
+[![HTML5](https://skillicons.dev/icons?i=html "HTML5")](https://www.w3schools.com/html/ "HTML5")
+[![CSS3](https://skillicons.dev/icons?i=css "CSS3")](https://www.w3schools.com/css/ "CSS3")
+[![C#](https://skillicons.dev/icons?i=cs "C#")](https://www.w3schools.com/cs/ "C#")
+[![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://unity.com/ "Unity")
+[![Python](https://skillicons.dev/icons?i=py "Python")](https://www.python.org "Python")
 
 
 -----
