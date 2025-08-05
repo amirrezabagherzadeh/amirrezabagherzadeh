@@ -38,9 +38,16 @@
 
 
 -----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en" alt="amirrezabagherzadeh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&" alt="amirrezabagherzadeh" /></p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en" 
+    alt="GitHub stats" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&" 
+    alt="GitHub streak" 
+  />
+</p>
 
 <img align="center"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&layout=compact&cache_seconds=60"
