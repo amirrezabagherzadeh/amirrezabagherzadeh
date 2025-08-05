@@ -27,7 +27,9 @@
 </p>
 --------
 <h3 align="left">Languages and Tools:</h3>
+
 [![WordPress](https://skillicons.dev/icons?i=wordpress)](https://wordpress.org) [![HTML5](https://skillicons.dev/icons?i=html)](https://www.w3schools.com/html/) [![CSS3](https://skillicons.dev/icons?i=css)](https://www.w3schools.com/css/) [![C#](https://skillicons.dev/icons?i=cs)](https://www.w3schools.com/cs/) [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/) [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org)
+
 
 -----
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&show_icons=true&locale=en&layout=compact" alt="amirrezabagherzadeh" /></p>
