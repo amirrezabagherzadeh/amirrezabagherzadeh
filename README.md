@@ -34,12 +34,46 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-[![WordPress](https://skillicons.dev/icons?i=wordpress "WordPress")](https://wordpress.org "WordPress")
-[![HTML5](https://skillicons.dev/icons?i=html "HTML5")](https://www.w3schools.com/html/ "HTML5")
-[![CSS3](https://skillicons.dev/icons?i=css "CSS3")](https://www.w3schools.com/css/ "CSS3")
-[![C#](https://skillicons.dev/icons?i=cs "C#")](https://www.w3schools.com/cs/ "C#")
-[![Unity](https://skillicons.dev/icons?i=unity "Unity")](https://unity.com/ "Unity")
-[![Python](https://skillicons.dev/icons?i=py "Python")](https://www.python.org "Python")
+<!-- Tech Stack – Mobile-Friendly Grid -->
+<table align="center">
+  <!-- ردیفِ آیکن‌ها -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"><br>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html"      alt="HTML5"    width="48" height="48"><br>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css"       alt="CSS3"     width="48" height="48"><br>
+    </td>
+  </tr>
+  <!-- ردیفِ نام‌ها -->
+  <tr>
+    <td align="center"><sub>WordPress</sub></td>
+    <td align="center"><sub>HTML5</sub></td>
+    <td align="center"><sub>CSS3</sub></td>
+  </tr>
+
+  <!-- ردیفِ آیکن‌های بعدی -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=cs"   alt="C#"     width="48" height="48"><br>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=unity" alt="Unity"  width="48" height="48"><br>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=py"    alt="Python" width="48" height="48"><br>
+    </td>
+  </tr>
+  <!-- ردیفِ نام‌ها -->
+  <tr>
+    <td align="center"><sub>C#</sub></td>
+    <td align="center"><sub>Unity</sub></td>
+    <td align="center"><sub>Python</sub></td>
+  </tr>
+</table>
 
 
 -----
