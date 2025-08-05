@@ -34,22 +34,22 @@
 //test
 <p align="left">
   <a href="https://wordpress.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="50" height="50"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="50" height="50"/>
   </a>
   <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="50" height="50"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="50" height="50"/>
   </a>
 </p>
 
