@@ -38,24 +38,16 @@
 
 
 -----
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/amirrezabagherzadeh">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en"
-          alt="GitHub stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/amirrezabagherzadeh">
-        <img
-          src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&"
-          alt="GitHub streak" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    width="300"
+    src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en"
+    alt="GitHub stats" />
+  <img
+    width="300"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=amirrezabagherzadeh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000"
+    alt="GitHub streak" />
+</p>
 
 <p align="center">
     <img
@@ -63,4 +55,4 @@
      alt="Top Languages" />
 </p>
 
------
+
