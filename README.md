@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirrezabagherzadeh&label=Profile%20views&color=0e75b6&style=flat" alt="amirrezabagherzadeh" /> </p>
 
-- 🔭 I’m currently working on [Serious Game Design for Empathy(Master’s Thesis)](/Empathy-Game)
+- 🔭 I’m currently working on [Serious Game Design for Empathy (Master’s Thesis)](/Empathy-Game)
 
 - 🌱 I’m currently learning **Machine Learning & Data Science**
 
