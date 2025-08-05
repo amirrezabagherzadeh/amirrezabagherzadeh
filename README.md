@@ -54,6 +54,8 @@
           alt="GitHub streak" />
       </a>
     </td>
+  </tr>
+</table>
 
 <p align="center">
     <img
@@ -61,4 +63,5 @@
      alt="Top Languages" />
 </p>
 
----
+    
+
