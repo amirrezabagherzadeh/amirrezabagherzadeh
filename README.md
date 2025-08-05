@@ -35,7 +35,7 @@
 <h3 align="left">💻 Languages and Tools:</h3>
 
 <!-- Tech Stack – Left-aligned + balanced spacing -->
-<table align="left" style="margin:4px 0 12px 0;">
+<table>
   <!-- ردیفِ آیکن‌ها -->
   <tr>
     <td align="center" width="90">
