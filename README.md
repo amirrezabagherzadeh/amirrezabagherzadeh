@@ -31,6 +31,30 @@
 
 [![My Skills](https://skillicons.dev/icons?i=wordpress,html,css,cs,unity,py)](https://skillicons.dev)
 
+//test
+<p align="left">
+  <a href="https://wordpress.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="40" height="40"/>
+  </a>
+  <a href="https://unity.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
+  </a>
+</p>
+
+//test
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&show_icons=true&locale=en&layout=compact" alt="amirrezabagherzadeh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en" alt="amirrezabagherzadeh" /></p>
