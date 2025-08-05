@@ -38,17 +38,24 @@
 
 
 -----
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en" 
-    alt="GitHub stats" 
-  />
-<br>
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&" 
-    alt="GitHub streak" 
-  />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/amirrezabagherzadeh">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en"
+          alt="GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/amirrezabagherzadeh">
+        <img
+          src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&"
+          alt="GitHub streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
     <img
