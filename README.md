@@ -34,32 +34,47 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-<p align="center">
-  <a href="https://wordpress.org" title="WordPress">
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress"><br>
-    WordPress
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/html/" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5"><br>
-    HTML5
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3"><br>
-    CSS3
-  </a>&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" title="C#">
-    <img src="https://skillicons.dev/icons?i=cs" alt="C#"><br>
-    C#
-  </a>&nbsp;&nbsp;
-  <a href="https://unity.com/" title="Unity">
-    <img src="https://skillicons.dev/icons?i=unity" alt="Unity"><br>
-    Unity
-  </a>&nbsp;&nbsp;
-  <a href="https://www.python.org" title="Python">
-    <img src="https://skillicons.dev/icons?i=py" alt="Python"><br>
-    Python
-  </a>
-</p>
+<!-- Tech Stack -->
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://wordpress.org" title="WordPress">
+        <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"><br>
+        <sub>WordPress</sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/html/" title="HTML5">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"><br>
+        <sub>HTML5</sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/css/" title="CSS3">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"><br>
+        <sub>CSS3</sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.w3schools.com/cs/" title="C#">
+        <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"><br>
+        <sub>C#</sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://unity.com/" title="Unity">
+        <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48"><br>
+        <sub>Unity</sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.python.org" title="Python">
+        <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48"><br>
+        <sub>Python</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
