@@ -35,7 +35,7 @@
 <h3 align="left">💻 Languages and Tools:</h3>
 
 <!-- Tech Stack – Left-aligned, reduced top margin -->
-<table align="left" style="margin-top:0px;">
+<table align="left">
   <!-- ردیفِ آیکن‌ها -->
   <tr>
     <td align="center" width="90">
