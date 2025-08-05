@@ -47,47 +47,32 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&" alt="amirrezabagherzadeh" /></p>
 
 -----
-<!-- GitHub Stats + Streak + Top Langs  (centered) -->
+<!-- ─── GitHub Cards: Stats + Streak + Top Langs ─── -->
 <div align="center">
 
-  <!-- 📊 Stats -->
+  <!-- 📊 GitHub Stats -->
   <a href="https://github.com/amirrezabagherzadeh">
     <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh
-           &show_icons=true
-           &include_all_commits=true
-           &count_private=true
-           &rank_icon=percentile
-           &hide_border=true        <!-- کادر دور کارت حذف شود -->
-           &theme=tokyonight         <!-- تم دلخواه؛ هر تم دیگری هم می‌توانید -->
-           &bg_color=00000000"       <!-- پس‌زمینه شفاف -->
-      alt="Amirreza – GitHub stats"/>
+      width="250"
+      src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&hide_border=true&theme=tokyonight&bg_color=00000000"
+      alt="Amirreza’s GitHub stats" />
   </a>
 
-  <!-- 🔥 Streak -->
+  <!-- 🔥 GitHub Streak -->
   <a href="https://github.com/amirrezabagherzadeh">
     <img
-      height="180"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh
-           &theme=tokyonight
-           &hide_border=true
-           &date_format=M%20j%5B%2C%20Y%5D
-           &background=00000000"
-      alt="Amirreza – GitHub streak"/>
+      width="250"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=amirrezabagherzadeh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=00000000"
+      alt="Amirreza’s GitHub streak" />
   </a>
 
   <!-- 🏆 Top Languages -->
   <a href="https://github.com/amirrezabagherzadeh">
     <img
-      height="180"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh
-           &layout=compact
-           &langs_count=8            <!-- اختیاری؛ تعداد زبان‌ها -->
-           &hide_border=true
-           &theme=tokyonight
-           &bg_color=00000000"
-      alt="Amirreza – Top languages"/>
+      width="250"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=00000000"
+      alt="Amirreza’s Top Languages" />
   </a>
 
 </div>
+
