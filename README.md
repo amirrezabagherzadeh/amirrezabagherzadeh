@@ -34,44 +34,44 @@
 
 <h3 align="left">💻 Languages and Tools:</h3>
 
-<!-- Tech Stack – Left-aligned, reduced top margin -->
-<table align="left">
+<!-- Tech Stack – Left-aligned + balanced spacing -->
+<table align="left" style="margin:4px 0 12px 0;">
   <!-- ردیفِ آیکن‌ها -->
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48"><br>
+      <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48">
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48"><br>
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="48" height="48">
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48"><br>
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="48" height="48">
     </td>
   </tr>
   <!-- ردیفِ نام‌ها -->
   <tr>
-    <td align="center"><sub>WordPress</sub></td>
-    <td align="center"><sub>HTML5</sub></td>
-    <td align="center"><sub>CSS3</sub></td>
+    <td align="center"><span style="display:block;margin-top:-4px;">WordPress</span></td>
+    <td align="center"><span style="display:block;margin-top:-4px;">HTML5</span></td>
+    <td align="center"><span style="display:block;margin-top:-4px;">CSS3</span></td>
   </tr>
 
   <!-- ردیفِ آیکن‌های بعدی -->
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48"><br>
+      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="48" height="48">
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48"><br>
+      <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="48" height="48">
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48"><br>
+      <img src="https://skillicons.dev/icons?i=py" alt="Python" width="48" height="48">
     </td>
   </tr>
   <!-- ردیفِ نام‌ها -->
   <tr>
-    <td align="center"><sub>C#</sub></td>
-    <td align="center"><sub>Unity</sub></td>
-    <td align="center"><sub>Python</sub></td>
+    <td align="center"><span style="display:block;margin-top:-4px;">C#</span></td>
+    <td align="center"><span style="display:block;margin-top:-4px;">Unity</span></td>
+    <td align="center"><span style="display:block;margin-top:-4px;">Python</span></td>
   </tr>
 </table>
 
