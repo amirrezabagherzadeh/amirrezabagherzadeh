@@ -1,6 +1,9 @@
 ![logo](https://github.com/amirrezabagherzadeh/amirrezabagherzadeh/blob/main/Amirreza%20Github%20Cover%20(1600%20x%20810%20px).png)
 
-<h1 align="center">Hi 👋, I'm Amirreza Bagherzadeh🧠</h1>
+<h1 align="center"
+    style="text-decoration:none; border-bottom:none;">
+  Hi 👋, I’m Amirreza Bagherzadeh🧠
+</h1>
 <h2 align="center">Cognitive Science student from Iran, passionate about game design and AI. </h2>
 
 <img align="right" alt="AmirrezaBagherzadeh" width = "400" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
