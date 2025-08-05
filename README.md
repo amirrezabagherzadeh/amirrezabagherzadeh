@@ -41,7 +41,6 @@
 <img align="left"
      src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&layout=compact&cache_seconds=60"
      alt="Top Languages" />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirrezabagherzadeh&show_icons=true&locale=en&layout=compact" alt="amirrezabagherzadeh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amirrezabagherzadeh&show_icons=true&locale=en" alt="amirrezabagherzadeh" /></p>
 
